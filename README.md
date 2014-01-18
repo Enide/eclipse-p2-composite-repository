@@ -19,6 +19,17 @@ Some googled links:
 - http://wiki.eclipse.org/Equinox/p2/Composite_Repositories_%28new%29
 - http://blog.vogella.com/2010/04/06/eclipse-p2-composite-repository/
 
+## Warning
+
+What you loose? Usually when you find plugin on Marketplace or via web search, you can read about the plugin, how to use,
+where to submit bug, news etc. When you have 100+ plugin in one update site, you are likely to miss something.
+So the best usage would be for those who already know the plugins, just need quicker way to install all favorites.
+
+Authors should add Eclipse Help with info about plugin, how to use, etc. Have you been in a situation, 
+when you need a plugin you have used before,
+but you don't remember it's name (It is maybe installed in this Eclipse or other, but there is no way to check quickly.)
+
+
 <p><a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a></p>
 				
 <p><i>Hosted by</i><br>
