@@ -7,7 +7,9 @@
   </properties>
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
-	<child location='http://download.eclipse.org/tools/mylyn/update/e3.4/'/>
+	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
 	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.9.05/'/>
+	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
   </children>
 </repository>
+ 
