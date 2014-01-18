@@ -8,5 +8,6 @@
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
 	<child location='http://download.eclipse.org/tools/mylyn/update/e3.4/'/>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.9.05/'/>
   </children>
 </repository>
