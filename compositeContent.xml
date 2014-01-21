@@ -3,7 +3,7 @@
 <repository name='&quot;Enide repository&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1358521200'/>
+    <property name='p2.timestamp' value='1358521201'/>
   </properties>
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
@@ -11,5 +11,6 @@
 	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.9.05/'/>
 	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
 	<child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
+	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/><!-- Markdown Editor -->
   </children>
 </repository>
