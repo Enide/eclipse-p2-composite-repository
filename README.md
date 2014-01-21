@@ -1,6 +1,6 @@
 # eclipse-p2-composite-repository
 
-Eclipse p2 composite repositories allows you to combine several p2 repositories (aka Eclipse update site)
+Eclipse p2 composite repositories allow you to combine several p2 repositories (aka Eclipse update site)
 into 1 virtual repository, that can be hosted anywhere including local folder.
 
 *Enide repository* will try to collect all useful Eclipse plugins around the world.
