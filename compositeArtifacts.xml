@@ -8,10 +8,11 @@
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
 	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.9.05/'/>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.10.0/'/>
+	<!-- already included: 	
 	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
+	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/> --><!-- Markdown Editor -->
 	<child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
-	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/><!-- Markdown Editor -->
   </children>
 </repository>
  
