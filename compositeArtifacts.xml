@@ -3,7 +3,7 @@
 <repository name='&quot;Enide repository&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303057'/>
+    <property name='p2.timestamp' value='1393303058'/>
   </properties>
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
@@ -16,6 +16,8 @@
 	<child location='https://raw.github.com/satyagraha/gfm_viewer/master/p2-composite/'/>
 	<child location='http://dbeaver.jkiss.org/update/2.3/'/>
 	<child location='http://eclipse-jetty.sourceforge.net/update/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/1.0.0-SNAPSHOT/'/>
+	<child location='http://oss.opensagres.fr/angularjs-eclipse/1.0.0-SNAPSHOT/'/>
   </children>
 </repository>
  
